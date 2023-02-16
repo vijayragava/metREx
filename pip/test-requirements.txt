@@ -3,3 +3,4 @@ Faker
 Flask-Testing
 pytest
 pytest-cov
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
