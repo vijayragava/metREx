@@ -5,7 +5,7 @@ Flask-Script
 MarkupSafe==2.0.1
 PyYAML
 SQLAlchemy>=1.4
-Werkzeug<2.0,>=0.15
+Werkzeug<3.0.6
 cfenv
 cryptofy
 flask-restx
